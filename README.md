@@ -3,7 +3,7 @@
 ##   Objetivo 
 Incentivar práticas agrícolas que preservem o meio ambiente e aumentam a proodutividade. 
 
-## AÇões
+## Ações
 - Economia da água
 - Rotação de culturas
 - Compostagem
