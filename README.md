@@ -8,7 +8,7 @@ Incentivar práticas agrícolas que preservem o meio ambiente e aumentam a prood
 - rotação de cultura
 - Compostagem
 - Preservação do solo
-- Uso de tecnologias systentáveis
+- Uso de tecnologias sustentáveis
   Beneficios
   - Menor impacto ambiental
   - Maior qualidade do solo
