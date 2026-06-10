@@ -5,7 +5,7 @@ Incentivar práticas agrícolas que preservem o meio ambiente e aumentam a prood
 
 ## Ações
 - Economia da água
-- Rotação de culturas 
+- rotação de cultura
 - Compostagem
 - Preservação do solo
 - Uso de tecnologias systentáveis
