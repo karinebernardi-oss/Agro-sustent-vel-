@@ -13,5 +13,8 @@ Incentivar práticas agrícolas que preservem o meio ambiente e aumentam a prood
   Beneficios
   - Menor impacto ambiental
   - Maior qualidade do solo
-  - Prodção eficiente
+  - Produção eficiente
   - Conservação dos recursos naturais 
+
+
+
